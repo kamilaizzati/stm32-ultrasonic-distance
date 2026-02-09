@@ -1,0 +1,12 @@
+# STM32CubeIDE build
+Debug/
+Release/
+
+# Eclipse / CubeIDE
+.metadata/
+.settings/
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db
